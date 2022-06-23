@@ -6,6 +6,70 @@ I wasn't sure if ["Lump-sum investing outperforms dollar cost averaging almost 7
 
 Check out [`investment.ipynb`](./investment.ipynb)
 
+## Some insights
+
+```console
+Chance of winning by investing every 2 trading days, for 1 year(s) when inflation is fixed at 0.04, compared to investing at once: 1.0
+Chance of winning by investing every 4 trading days, for 1 year(s) when inflation is fixed at 0.04, compared to investing at once: 0.9131
+Chance of winning by investing every 8 trading days, for 1 year(s) when inflation is fixed at 0.04, compared to investing at once: 0.5417
+Chance of winning by investing every 16 trading days, for 1 year(s) when inflation is fixed at 0.04, compared to investing at once: 0.4437
+Chance of winning by investing every 32 trading days, for 1 year(s) when inflation is fixed at 0.04, compared to investing at once: 0.3476
+Chance of winning by investing every 64 trading days, for 1 year(s) when inflation is fixed at 0.04, compared to investing at once: 0.1169
+Chance of winning by investing every 128 trading days, for 1 year(s) when inflation is fixed at 0.04, compared to investing at once: 0.0
+division by zero
+division by zero
+
+Chance of winning by investing every 2 trading days, for 2 year(s) when inflation is fixed at 0.04, compared to investing at once: 1.0
+Chance of winning by investing every 4 trading days, for 2 year(s) when inflation is fixed at 0.04, compared to investing at once: 1.0
+Chance of winning by investing every 8 trading days, for 2 year(s) when inflation is fixed at 0.04, compared to investing at once: 0.7587
+Chance of winning by investing every 16 trading days, for 2 year(s) when inflation is fixed at 0.04, compared to investing at once: 0.4558
+Chance of winning by investing every 32 trading days, for 2 year(s) when inflation is fixed at 0.04, compared to investing at once: 0.3361
+Chance of winning by investing every 64 trading days, for 2 year(s) when inflation is fixed at 0.04, compared to investing at once: 0.1123
+Chance of winning by investing every 128 trading days, for 2 year(s) when inflation is fixed at 0.04, compared to investing at once: 0.0025
+Chance of winning by investing every 256 trading days, for 2 year(s) when inflation is fixed at 0.04, compared to investing at once: 0.0
+division by zero
+
+Chance of winning by investing every 2 trading days, for 4 year(s) when inflation is fixed at 0.04, compared to investing at once: 1.0
+Chance of winning by investing every 4 trading days, for 4 year(s) when inflation is fixed at 0.04, compared to investing at once: 1.0
+Chance of winning by investing every 8 trading days, for 4 year(s) when inflation is fixed at 0.04, compared to investing at once: 0.9366
+Chance of winning by investing every 16 trading days, for 4 year(s) when inflation is fixed at 0.04, compared to investing at once: 0.4923
+Chance of winning by investing every 32 trading days, for 4 year(s) when inflation is fixed at 0.04, compared to investing at once: 0.336
+Chance of winning by investing every 64 trading days, for 4 year(s) when inflation is fixed at 0.04, compared to investing at once: 0.1266
+Chance of winning by investing every 128 trading days, for 4 year(s) when inflation is fixed at 0.04, compared to investing at once: 0.0
+Chance of winning by investing every 256 trading days, for 4 year(s) when inflation is fixed at 0.04, compared to investing at once: 0.0
+Chance of winning by investing every 512 trading days, for 4 year(s) when inflation is fixed at 0.04, compared to investing at once: 0.0
+
+Chance of winning by investing every 2 trading days, for 8 year(s) when inflation is fixed at 0.04, compared to investing at once: 1.0
+Chance of winning by investing every 4 trading days, for 8 year(s) when inflation is fixed at 0.04, compared to investing at once: 1.0
+Chance of winning by investing every 8 trading days, for 8 year(s) when inflation is fixed at 0.04, compared to investing at once: 1.0
+Chance of winning by investing every 16 trading days, for 8 year(s) when inflation is fixed at 0.04, compared to investing at once: 0.8553
+Chance of winning by investing every 32 trading days, for 8 year(s) when inflation is fixed at 0.04, compared to investing at once: 0.3775
+Chance of winning by investing every 64 trading days, for 8 year(s) when inflation is fixed at 0.04, compared to investing at once: 0.1998
+Chance of winning by investing every 128 trading days, for 8 year(s) when inflation is fixed at 0.04, compared to investing at once: 0.0
+Chance of winning by investing every 256 trading days, for 8 year(s) when inflation is fixed at 0.04, compared to investing at once: 0.0
+Chance of winning by investing every 512 trading days, for 8 year(s) when inflation is fixed at 0.04, compared to investing at once: 0.0
+
+Chance of winning by investing every 2 trading days, for 16 year(s) when inflation is fixed at 0.04, compared to investing at once: 1.0
+Chance of winning by investing every 4 trading days, for 16 year(s) when inflation is fixed at 0.04, compared to investing at once: 1.0
+Chance of winning by investing every 8 trading days, for 16 year(s) when inflation is fixed at 0.04, compared to investing at once: 1.0
+Chance of winning by investing every 16 trading days, for 16 year(s) when inflation is fixed at 0.04, compared to investing at once: 1.0
+Chance of winning by investing every 32 trading days, for 16 year(s) when inflation is fixed at 0.04, compared to investing at once: 0.4925
+Chance of winning by investing every 64 trading days, for 16 year(s) when inflation is fixed at 0.04, compared to investing at once: 0.1715
+Chance of winning by investing every 128 trading days, for 16 year(s) when inflation is fixed at 0.04, compared to investing at once: 0.0
+Chance of winning by investing every 256 trading days, for 16 year(s) when inflation is fixed at 0.04, compared to investing at once: 0.0
+Chance of winning by investing every 512 trading days, for 16 year(s) when inflation is fixed at 0.04, compared to investing at once: 0.0
+
+Chance of winning by investing every 2 trading days, for 32 year(s) when inflation is fixed at 0.04, compared to investing at once: 1.0
+Chance of winning by investing every 4 trading days, for 32 year(s) when inflation is fixed at 0.04, compared to investing at once: 1.0
+Chance of winning by investing every 8 trading days, for 32 year(s) when inflation is fixed at 0.04, compared to investing at once: 1.0
+Chance of winning by investing every 16 trading days, for 32 year(s) when inflation is fixed at 0.04, compared to investing at once: 1.0
+Chance of winning by investing every 32 trading days, for 32 year(s) when inflation is fixed at 0.04, compared to investing at once: 1.0
+Chance of winning by investing every 64 trading days, for 32 year(s) when inflation is fixed at 0.04, compared to investing at once: 0.1089
+Chance of winning by investing every 128 trading days, for 32 year(s) when inflation is fixed at 0.04, compared to investing at once: 0.0
+Chance of winning by investing every 256 trading days, for 32 year(s) when inflation is fixed at 0.04, compared to investing at once: 0.0
+Chance of winning by investing every 512 trading days, for 32 year(s) when inflation is fixed at 0.04, compared to investing at once: 0.0
+```
+
 ## Prerequisites
 
 1. A unix or unix-like x86 machine
@@ -15,6 +79,7 @@ Check out [`investment.ipynb`](./investment.ipynb)
 
 ## TODOs
 
+1. Double check the math
 1. Try other ticker symbols.
 1. Try cryptos.
 1. Come up with a better inflation rate, based on the investment starting date.
