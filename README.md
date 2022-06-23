@@ -2,7 +2,7 @@
 
 lump sum vs. dollar cost averaging.
 
-I wasn't sure if ["Lump-sum investing outperforms dollar cost averaging almost 75% of the time"](https://www.experian.com/blogs/ask-experian/dollar-cost-averaging-vs-lump-sum-investing/#:~:text=Lump%2Dsum%20investing%20outperforms%20dollar%20cost%20averaging%20almost%2075%25%20of,sum%20could%20yield%20better%20results.) is actually true. So I ran a small script. 
+I wasn't sure if ["Lump-sum investing outperforms dollar cost averaging almost 75% of the time"](https://www.experian.com/blogs/ask-experian/dollar-cost-averaging-vs-lump-sum-investing/#:~:text=Lump%2Dsum%20investing%20outperforms%20dollar%20cost%20averaging%20almost%2075%25%20of,sum%20could%20yield%20better%20results.) is actually true. So I ran a small script.
 
 Check out [`investment.ipynb`](./investment.ipynb)
 
@@ -16,8 +16,8 @@ Check out [`investment.ipynb`](./investment.ipynb)
 ## TODOs
 
 1. Try other ticker symbols.
-2. Try cryptos.
-3. Come up with a better inflation rate, based on the investment starting date.
+1. Try cryptos.
+1. Come up with a better inflation rate, based on the investment starting date.
 
 ## Contributing
 
